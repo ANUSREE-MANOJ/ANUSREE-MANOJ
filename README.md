@@ -11,7 +11,7 @@
 ![MCA](https://img.shields.io/badge/MCA-Govt.%20Engineering%20College%2C%20Thrissur-6D28D9?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Kozhikode%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
-###[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL])
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL]) --->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusree-p-p)
 [![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusreeppa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR-GITHUB-USERNAME])
@@ -189,17 +189,17 @@ Secure travel booking platform with user authentication, package browsing, booki
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7"/>
 </div>
 
-### 📈 Contribution Activity
+<!---### 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
-</div>
+</div> 
 
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+</div>--->
 
 ---
 
@@ -218,7 +218,7 @@ Open To:    Full Stack / Frontend / MERN Stack Developer roles — Full-time, Re
 [![Gmail](https://img.shields.io/badge/anusreeppa%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusreeppa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Anusree%20P%20P-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusree-p-p)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-###[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)--->
 
 ---
 
