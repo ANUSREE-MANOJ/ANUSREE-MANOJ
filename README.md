@@ -148,8 +148,8 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 | Recognition | Details |
 |---|---|
-| 🎖️ Rajyapuraskar Award | Bharat Scouts and Guides — leadership & discipline recognition |
-| 🚀 IEDC Member | Innovation & Entrepreneurship Development Centre — hackathons, workshops, innovation programs |
+|  Rajyapuraskar Award | Bharat Scouts and Guides — leadership & discipline recognition |
+|  IEDC Member | Innovation & Entrepreneurship Development Centre — hackathons, workshops, innovation programs |
 
 </div>
 
@@ -189,13 +189,13 @@ Secure travel booking platform with user authentication, package browsing, booki
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7"/>
 </div>
 
-<!---### 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
 </div> 
---->
-### 🐍 Contribution Snake
+
+###  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
