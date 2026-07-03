@@ -167,19 +167,21 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ### Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/[YOUR-HANDLE])
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anusree--Manoj-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anusree-Manoj/)
 
----
 
 ###  GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ANUSREE-MANOJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSREE-MANOJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ANUSREE-MANOJ&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -189,7 +191,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7"/>
 </div>
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
@@ -203,7 +205,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 ```yaml
 Building:   Full-stack projects with production-grade auth & scalability patterns
@@ -213,7 +215,7 @@ Open To:    Full Stack / Frontend / MERN Stack Developer roles — Full-time, Re
 
 ---
 
-### 📫 Connect
+###  Connect
 
 [![Gmail](https://img.shields.io/badge/anusreeppa%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusreeppa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Anusree%20P%20P-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusree-p-p)
