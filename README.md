@@ -171,7 +171,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anusree--Manoj-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anusree-Manoj/)
 
 
-###  GitHub Analytics
+<!---###  GitHub Analytics
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+</div>  --->
 
 ---
 
