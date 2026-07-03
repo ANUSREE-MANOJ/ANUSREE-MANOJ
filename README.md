@@ -18,13 +18,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=6d28d9&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?color=4c1d95&style=flat-square&label=Stars)
+<!---![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?color=4c1d95&style=flat-square&label=Stars)--->
 
 </div>
 
 ---
 
-### 👩‍💻 About
+###  About
 
 I'm a **MERN Stack Developer** completing my **Master of Computer Applications** at Government Engineering College, Thrissur (CGPA 8.3), with hands-on experience building production-style full-stack applications across **React.js, Node.js, Express.js, and MongoDB**.
 
@@ -69,7 +69,7 @@ I care about two things in every build: does the interface feel instant, and is 
 
 ---
 
-### 🤖 Applied ML Exposure
+###  Applied ML Exposure
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -79,7 +79,7 @@ I care about two things in every build: does the interface feel instant, and is 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <details>
 <summary><b> E-Commerce Web Application (MERN Stack)</b></summary>
@@ -129,7 +129,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Full Stack Developer Intern** · Futura Labs Technologies LLP
 `Oct 2023 – May 2024` · Kozhikode, India
@@ -142,7 +142,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 **NPTEL (IIT Kharagpur)**
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-2025-6D28D9?style=flat-square&logo=googlecloud&logoColor=white)
@@ -165,14 +165,14 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 ---
 
-### 💻 Coding Profiles
+### Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/[YOUR-HANDLE])
 
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Secure travel booking platform with user authentication, package browsing, booki
 
 </div>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7"/>
@@ -194,12 +194,12 @@ Secure travel booking platform with user authentication, package browsing, booki
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
 </div> 
-
+--->
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</div>--->
+</div>
 
 ---
 
