@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anusree%20P%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anusree%20P%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+(MERN);React.js+%7C+Node.js+%7C+MongoDB;Building+fast%2C+scalable+web+apps;Open+to+Software+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+Developer;Machine+Learning+Engineer;Computer+Vision+Learner;MERN+Stack+Developer;Building+AI+%26+Full+Stack+Applications;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
