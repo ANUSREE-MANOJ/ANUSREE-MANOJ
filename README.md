@@ -26,14 +26,16 @@
 
 ###  About
 
-I'm a **MERN Stack Developer** completing my **Master of Computer Applications** at Government Engineering College, Thrissur (CGPA 8.3), with hands-on experience building production-style full-stack applications across **React.js, Node.js, Express.js, and MongoDB**.
+I'm an **MCA graduate** with hands-on experience in **Python**, **Machine Learning**, and **MERN Stack** development. I have built production-style full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**, along with AI-based projects focused on predictive modeling and intelligent document analysis.
 
-I care about two things in every build: does the interface feel instant, and is the backend architected to scale past the demo. My work spans **responsive frontend engineering**, **REST API design**, and early exposure to **applied machine learning** — including a wearable health-monitoring system built on real sensor data. I ship with a product mindset: performance, usability, and maintainability first.
+My work spans **full-stack application development**, **REST API design**, **data preprocessing**, and **machine learning** using real-world datasets, including an IoT-based wearable health monitoring system for sleep disorder prediction. I'm passionate about building scalable software solutions and continuously expanding my knowledge in **Machine Learning**, **Computer Vision**, and **Artificial Intelligence**.
 
 ```yaml
  Education:    MCA, Government Engineering College, Thrissur (2024–2026)
  Experience:   Full Stack Developer Intern @ Futura Labs Technologies LLP
- Open To:      Full Stack / Frontend / MERN Stack Developer roles
+ Focus:        Python, Machine Learning, and Full-Stack Development
+Open To:      Python Developer | Machine Learning Engineer | Software Engineer | Full Stack Developer
+
  Based in:     Kozhikode, India
 ```
 
@@ -69,60 +71,58 @@ I care about two things in every build: does the interface feel instant, and is 
 
 ---
 
-###  Applied ML Exposure
+###  Machine Learning
 
-| Domain | Proficiency | Details |
+| Domain | Experience | Details |
 |---|:---:|---|
-| Data Preprocessing & Feature Extraction | Practical | Cleaned & engineered features from sensor/time-series data |
-| Supervised Learning | Practical | Applied Random Forest for classification tasks |
-| Model Evaluation | Practical | Performance evaluation on wearable health-monitoring dataset |
+| Data Preprocessing & Feature Engineering | Hands-on | Processed and prepared physiological sensor data for machine learning models |
+| Supervised Machine Learning | Hands-on | Developed classification models using Random Forest |
+| Model Evaluation | Hands-on | Evaluated model performance using classification metrics |
+| AI Applications | Project-Based | Built AI solutions for sleep disorder prediction and legal document analysis |
 
----
-
-###  Featured Projects
+### 🚀 Featured Projects
 
 <details>
-<summary><b> E-Commerce Web Application (MERN Stack)</b></summary>
+<summary><b>IoT-Based Smartwatch for Sleep Disorder Prediction</b></summary>
 <br/>
 
-Full-stack e-commerce platform with product filtering, cart management, order placement, JWT-based authentication, and an admin panel for product management.
+Developed an IoT-enabled wearable health monitoring system that predicts sleep disorders using physiological sensor data and machine learning.
 
 | | |
 |---|---|
-| **Stack** | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
-| **Auth** | JWT-based authentication |
-| **Admin** | Full product management dashboard |
-| **Frontend** | Responsive UI, REST API integration |
+| **Stack** | Python, Random Forest, ESP32, MAX30102, MPU6050 |
+| **ML** | Data preprocessing, feature engineering, predictive modeling |
+| **Dataset** | Heart rate and motion sensor data |
 | **Repository** | `[ADD REPO LINK]` |
 
 </details>
 
 <details>
-<summary><b> Sleep Disorder Prediction System</b></summary>
+<summary><b>AI-Powered Legal Document Analysis System</b></summary>
 <br/>
 
-Wearable smart health-monitoring system detecting sleep disorders using Heart Rate Variability (HRV) and motion sensor data, with predictive modeling via Random Forest.
+Developed an AI-based application to analyze legal documents using OCR, NLP, and Large Language Models for summarization and question answering.
 
 | | |
 |---|---|
-| **Stack** | Python, Random Forest, Sensor/HRV data pipelines |
-| **Scale** | Large sensor dataset — EDA, noise removal, feature extraction |
-| **Impact** | Predictive health-risk detection from wearable data |
+| **Stack** | Python, Flask, OpenAI API, HTML, CSS |
+| **AI** | OCR, NLP, Document Summarization, Question Answering |
+| **Features** | Document upload, intelligent analysis, REST APIs |
 | **Repository** | `[ADD REPO LINK]` |
 
 </details>
 
 <details>
-<summary><b> Travel Booking Platform (MERN Stack)</b></summary>
+<summary><b>E-Commerce Web Application (MERN Stack)</b></summary>
 <br/>
 
-Secure travel booking platform with user authentication, package browsing, booking management, and an admin dashboard for travel agents.
+Developed a full-stack e-commerce application featuring secure authentication, product management, shopping cart, and order processing.
 
 | | |
 |---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js |
-| **Features** | CRUD for agents, booking + payment management |
-| **Performance** | Optimized frontend responsiveness & load efficiency |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS |
+| **Backend** | REST APIs, JWT Authentication |
+| **Features** | Product search, filtering, cart, order management |
 | **Repository** | `[ADD REPO LINK]` |
 
 </details>
