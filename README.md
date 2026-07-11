@@ -215,8 +215,9 @@ Developed a full-stack e-commerce application featuring secure authentication, p
 Building:   AI-powered applications, machine learning solutions, and scalable full-stack web applications
 Learning:   Deep Learning, and advanced machine learning techniques
 Open To:    Python Developer | Machine Learning Engineer | Software Engineer | Full Stack Developer
----
+
 ```
+---
 ###  Connect
 
 [![Gmail](https://img.shields.io/badge/anusreeppa%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusreeppa@gmail.com)
