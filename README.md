@@ -34,20 +34,25 @@ My work spans **full-stack application development**, **REST API design**, **dat
  Education:    MCA, Government Engineering College, Thrissur (2024–2026)
  Experience:   Full Stack Developer Intern @ Futura Labs Technologies LLP
  Focus:        Python, Machine Learning, and Full-Stack Development
-Open To:      Python Developer | Machine Learning Engineer | Software Engineer | Full Stack Developer
+ Open To:      Python Developer | Machine Learning Engineer | Software Engineer | Full Stack  Developer
 
  Based in:     Kozhikode, India
 ```
-
----
-
 ### 🛠️ Tech Stack
 
-**Languages**
+**Programming Languages**
 ![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=8B5CF6)
-![Java](https://img.shields.io/badge/Java-14151a?style=flat-square&logo=openjdk&logoColor=8B5CF6)
 ![C](https://img.shields.io/badge/C-14151a?style=flat-square&logo=c&logoColor=8B5CF6)
+![Java](https://img.shields.io/badge/Java-14151a?style=flat-square&logo=openjdk&logoColor=8B5CF6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=8B5CF6)
+
+**Machine Learning & AI**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-14151a?style=flat-square&logo=tensorflow&logoColor=8B5CF6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-14151a?style=flat-square&logo=tensorflow&logoColor=8B5CF6)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-14151a?style=flat-square&logo=scikitlearn&logoColor=8B5CF6)
+![NumPy](https://img.shields.io/badge/NumPy-14151a?style=flat-square&logo=numpy&logoColor=8B5CF6)
+![Pandas](https://img.shields.io/badge/Pandas-14151a?style=flat-square&logo=pandas&logoColor=8B5CF6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-14151a?style=flat-square&logo=plotly&logoColor=8B5CF6)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React.js-14151a?style=flat-square&logo=react&logoColor=8B5CF6)
@@ -68,8 +73,7 @@ Open To:      Python Developer | Machine Learning Engineer | Software Engineer |
 ![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=8B5CF6)
 ![GitHub](https://img.shields.io/badge/GitHub-14151a?style=flat-square&logo=github&logoColor=8B5CF6)
 ![VS Code](https://img.shields.io/badge/VS%20Code-14151a?style=flat-square&logo=visualstudiocode&logoColor=8B5CF6)
-
----
+![Jupyter](https://img.shields.io/badge/Jupyter-14151a?style=flat-square&logo=jupyter&logoColor=8B5CF6)
 
 ###  Machine Learning
 
@@ -207,12 +211,9 @@ Developed a full-stack e-commerce application featuring secure authentication, p
 
 ###  Current Focus
 
-```yaml
-Building:   Full-stack projects with production-grade auth & scalability patterns
-Exploring:  Applied ML for real-world sensor/health data pipelines
-Open To:    Full Stack / Frontend / MERN Stack Developer roles — Full-time, Remote-friendly
-```
-
+Building:   AI-powered applications, machine learning solutions, and scalable full-stack web applications
+Learning:   Deep Learning, and advanced machine learning techniques
+Open To:    Python Developer | Machine Learning Engineer | Software Engineer | Full Stack Developer
 ---
 
 ###  Connect
