@@ -15,10 +15,10 @@
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR-PORTFOLIO-URL]) --->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusree-p-p)
 [![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusreeppa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR-GITHUB-USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANUSREE-MANOJ)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=6d28d9&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=ANUSREE-MANOJ&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ANUSREE-MANOJ?color=6d28d9&style=flat-square&label=Followers)
 <!---![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?color=4c1d95&style=flat-square&label=Stars)--->
 
 </div>
