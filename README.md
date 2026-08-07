@@ -46,7 +46,7 @@ Based in:     Kozhikode, Kerala, India
 ![Java](https://img.shields.io/badge/Java-14151a?style=flat-square&logo=openjdk&logoColor=8B5CF6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=8B5CF6)
 
-**Machine Learning & AI**
+**Machine Learning and AI**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-14151a?style=flat-square&logo=tensorflow&logoColor=8B5CF6)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-14151a?style=flat-square&logo=tensorflow&logoColor=8B5CF6)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-14151a?style=flat-square&logo=scikitlearn&logoColor=8B5CF6)
