@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anusree%20P%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anusree%20P%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+Developer;Machine+Learning+Engineer;MERN+Stack+Developer;Building+AI+%26+Full+Stack+Applications;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,12 +31,11 @@ I'm an **MCA graduate** with hands-on experience in **Python**, **Machine Learni
 My work spans **full-stack application development**, **REST API design**, **data preprocessing**, and **machine learning** using real-world datasets, including an IoT-based wearable health monitoring system for sleep disorder prediction. I'm passionate about building scalable software solutions and continuously expanding my knowledge in **Machine Learning**, **Computer Vision**, and **Artificial Intelligence**.
 
 ```yaml
- Education:    MCA, Government Engineering College, Thrissur (2024–2026)
- Experience:   Full Stack Developer Intern @ Futura Labs Technologies LLP
- Focus:        Python, Machine Learning, and Full-Stack Development
- Open To:      Python Developer | Machine Learning Engineer | Software Engineer | Full Stack  Developer
-
- Based in:     Kozhikode, India
+Education:    MCA, Government Engineering College, Thrissur
+Experience:   Full Stack Developer Intern @ Futura Labs Technologies LLP
+Focus:        Full Stack Development, Python, and Machine Learning
+Open To:      Full Stack Developer | Python Developer | Software Engineer | Machine Learning Engineer
+Based in:     Kozhikode, Kerala, India
 ```
 ### 🛠️ Tech Stack
 
@@ -75,14 +74,7 @@ My work spans **full-stack application development**, **REST API design**, **dat
 ![VS Code](https://img.shields.io/badge/VS%20Code-14151a?style=flat-square&logo=visualstudiocode&logoColor=8B5CF6)
 ![Jupyter](https://img.shields.io/badge/Jupyter-14151a?style=flat-square&logo=jupyter&logoColor=8B5CF6)
 
-###  Machine Learning
 
-| Domain | Experience | Details |
-|---|:---:|---|
-| Data Preprocessing & Feature Engineering | Hands-on | Processed and prepared physiological sensor data for machine learning models |
-| Supervised Machine Learning | Hands-on | Developed classification models using Random Forest |
-| Model Evaluation | Hands-on | Evaluated model performance using classification metrics |
-| AI Applications | Project-Based | Built AI solutions for sleep disorder prediction and legal document analysis |
 
 ### 🚀 Featured Projects
 
